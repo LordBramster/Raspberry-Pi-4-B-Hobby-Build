@@ -30,7 +30,7 @@ Here are the steps I took configure a brand new Raspberry Pi 4.
 1. Purchase a **32GB Micro SD Card**, and flash it using the `Raspberry Pi OS Imager`.
 2. Download the `Raspberry Pi OS Imager` from **https://www.raspberrypi.com/software/**, or **[for Windows](https://downloads.raspberrypi.org/imager/imager_latest.exe)**.
 3. Install the `Raspberry Pi OS Imager` and run it.
-4. **OS:** choose `Rasbian: Raspberry Pi OS (32-bit) Debian Port w/ Raspberry Pi Desktop`
+4. **OS:** choose `Raspbian: Raspberry Pi OS (32-bit) Debian Port w/ Raspberry Pi Desktop`
 5. **SD:** choose the mounted `32GB Micro SD Card`.
 6. Now make any last minute **Advanced Settings** changes as necessary.
 7. Write!
