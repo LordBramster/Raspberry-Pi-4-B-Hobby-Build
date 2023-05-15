@@ -39,7 +39,7 @@ Here are the steps I took configure a brand new Raspberry Pi 4.
 4. **OS:** choose `Raspbian: Raspberry Pi OS (32-bit) Debian Port w/ Raspberry Pi Desktop`
 5. **SD:** choose the mounted `32GB Micro SD Card`.
 6. Now make any last minute **Advanced Settings** changes as necessary.
-7. Write!
+7. **Write**.
 
 ### Setup
 ```
