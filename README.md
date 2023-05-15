@@ -38,7 +38,7 @@ Here are the steps I took configure a brand new `Raspberry Pi 4 Model B`.
 
 ## **Raspberry Pi OS Image**
 > My Raspberry Pi *did not* include a OS-boot Micro SD card. 
-> I had to flash the OS Image to the Micro SD card.
+> I had to flash the OS Image to a new Micro SD card.
 
 1. Download the `Raspberry Pi OS Imager` from **https://www.raspberrypi.com/software/**, or **[for Windows](https://downloads.raspberrypi.org/imager/imager_latest.exe)**.
 2. Run the `Raspberry Pi OS Imager` installation.
