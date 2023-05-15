@@ -1,3 +1,5 @@
+<img width="10%" src="./neo_featured.jpg">
+
 # A DIY/Hobby Build with a Raspberry Pi 4
 My current DIY and Hobby-Build using a `Raspberry Pi 4 Model B (2GB RAM)`.
 
