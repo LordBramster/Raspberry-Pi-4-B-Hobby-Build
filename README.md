@@ -99,16 +99,16 @@ $ echo
 
 ## **Stressberry**
 ```
-[sudo] apt install stress
-pip3 install stressberry --user
-pip3 install --upgrade numpy
+$ [sudo] apt install stress
+$ pip3 install stressberry --user
+$ pip3 install --upgrade numpy
 ```
 ```
-mkdir ~/TemperatureTests
-cd ~/TemperatureTests
+$ mkdir ~/TemperatureTests
+$ cd ~/TemperatureTests
 ```
 ```
-/home/pi/.local/bin/stressberry-run -n "My Test" -d 1800 -i 300 -c 4 mytest.out
+$ /home/pi/.local/bin/stressberry-run -n "My Test" -d 1800 -i 300 -c 4 mytest.out
 ```
 ### *Links:*
 > **https://github.com/nschloe/stressberry**
