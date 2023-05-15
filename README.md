@@ -1,12 +1,7 @@
-<img width="40%" src="./raspberry-pi-logo.png">
-
-# Raspberry Pi (DIY Hobby Build)
+# A DIY/Hobby Build with a Raspberry Pi 4
 My current DIY and Hobby-Build using a `Raspberry Pi 4 Model B (2GB RAM)`.
-
-<br><br>
-
+<br>
 <img width="40%" src="./raspberry-pi-4-model-b.png">
-
 <br>
 
 ## Specs and Parts
@@ -22,13 +17,9 @@ Argon 18W 5V Power Supply w/ Switch
 ```
 
 If you want more information about this Raspberry Pi model, **[you can find it here](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)**.
-
 <br>
-
 Here are some product links:
-
 <br>
-
 - **[Argon NEO Case](https://argon40.com/products/argon-neo-case-for-raspberry-pi-4)**
 - **[Argon Fan Hat](https://argon40.com/products/argon-fan-hat?_pos=1&_sid=683d0d276&_ss=r)**
 - **[Argon 18W 5V Power Supply](https://argon40.com/products/argon-type-c-power-supply-with-switch-18-watts-5-volts?_pos=3&_sid=4e581e253&_ss=r)**
