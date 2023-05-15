@@ -52,7 +52,7 @@ Here are the steps I took configure a brand new `Raspberry Pi 4 Model B`.
 <br>
 
 > Insert the Micro SD Card into the unpowered Raspberry Pi 4, for the first time.
-> Proceed through the steps of the OS Installation on the Raspberry Pi.
+> Proceed through the rest of the OS Installation on the Pi.
 
 <br>
 
