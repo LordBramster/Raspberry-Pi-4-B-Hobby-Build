@@ -36,7 +36,7 @@ Here are the steps I took configure a brand new `Raspberry Pi 4 Model B`.
 
 <br>
 
-## Raspberry Pi OS Image
+## **Raspberry Pi OS Image**
 > My Raspberry Pi *did not* include a OS-boot Micro SD card. 
 > I had to flash the OS Image to the Micro SD card.
 
@@ -56,7 +56,7 @@ Here are the steps I took configure a brand new `Raspberry Pi 4 Model B`.
 
 <br>
 
-## Bash (RPi)
+## **RPi Bash**
 ```
 $ [sudo] apt-get update
 $ [sudo] apt-get update && [sudo] apt-get upgrade
@@ -66,7 +66,7 @@ $ [sudo] reboot
 
 <br>
 
-## Hostname
+## **Hostname**
 ```
 $ [sudo] cat /etc/hosts
 $ [sudo] nano /etc/hostname
@@ -76,7 +76,7 @@ $ hostname
 
 <br>
 
-## Argon Fan Hat Config
+## **Argon Fan Hat Config**
 ```
 $ curl https://download.argon40.com/argon1.sh | bash
 $ [sudo] reboot
@@ -91,13 +91,13 @@ Fan Power Settings:
 <br>
 
 
-## SSH
+## **SSH**
 ```
 $ echo
 ```
 <br>
 
-## Stressberry 
+## **Stressberry**
 ```
 [sudo] apt install stress
 pip3 install stressberry --user
@@ -110,17 +110,23 @@ cd ~/TemperatureTests
 ```
 /home/pi/.local/bin/stressberry-run -n "My Test" -d 1800 -i 300 -c 4 mytest.out
 ```
-### Links: 
+### *Links:*
 > **https://github.com/nschloe/stressberry**
 > **https://core-electronics.com.au/guides/raspberry-pi/how-to-stress-test-temperature-on-raspberry-pi/**
 
-## Custom Shell Scripts
+## **Custom Scripts**
 
 ### **~/temperature.sh**
 ```
-touch ~/temperature.sh
-chmod +x ~/temperature.sh
-nano ~/temperature.sh
-cat ~/temperature.sh
-./temperature.sh
+$ touch ~/temperature.sh
+$ chmod +x ~/temperature.sh
+$ nano ~/temperature.sh
+$ cat ~/temperature.sh
+$ ./temperature.sh
+```
+
+### **temp.py**
+```
+$ pip install gpiozero
+$ python temp.py
 ```
