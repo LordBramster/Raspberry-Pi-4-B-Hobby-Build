@@ -37,13 +37,22 @@ Here are the steps I took configure a brand new `Raspberry Pi 4 Model B`.
 <br>
 
 ## Raspberry Pi OS Image
-1. Use a **32GB Micro SD Card** (any size works), and flash it using the `Raspberry Pi OS Imager`.
-2. Download the `Raspberry Pi OS Imager` from **https://www.raspberrypi.com/software/**, or **[for Windows](https://downloads.raspberrypi.org/imager/imager_latest.exe)**.
-3. Install the `Raspberry Pi OS Imager` and run it.
+> My Raspberry Pi *did not* include a OS-boot Micro SD card. 
+> I had to flash the OS Image to the Micro SD card.
+
+1. Download the `Raspberry Pi OS Imager` from **https://www.raspberrypi.com/software/**, or **[for Windows](https://downloads.raspberrypi.org/imager/imager_latest.exe)**.
+2. Run the `Raspberry Pi OS Imager` installation.
+3. Mount the **32GB Micro SD Card** onto your machine.
+4. Open the `Raspberry Pi OS Imager`.
 4. **OS:** choose `Raspbian: Raspberry Pi OS (32-bit) Debian Port w/ Raspberry Pi Desktop`.
 5. **SD:** choose the mounted `32GB Micro SD Card`.
 6. Now make any last minute **Advanced Settings** changes as necessary.
-7. **Write**.
+7. Select **Write** to flash the Micro SD Card with the OS Image *(may take a few minutes)*.
+
+<br>
+
+> Insert the Micro SD Card into the unpowered Raspberry Pi 4, for the first time.
+> Proceed through the steps of the OS Installation on the Raspberry Pi.
 
 <br>
 
@@ -102,9 +111,8 @@ cd ~/TemperatureTests
 /home/pi/.local/bin/stressberry-run -n "My Test" -d 1800 -i 300 -c 4 mytest.out
 ```
 ### Links: 
-**https://github.com/nschloe/stressberry**
-<br>
-**https://core-electronics.com.au/guides/raspberry-pi/how-to-stress-test-temperature-on-raspberry-pi/**
+> **https://github.com/nschloe/stressberry**
+> **https://core-electronics.com.au/guides/raspberry-pi/how-to-stress-test-temperature-on-raspberry-pi/**
 
 ## Custom Shell Scripts
 
