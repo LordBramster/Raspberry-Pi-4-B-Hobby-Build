@@ -1,7 +1,9 @@
+
 # Raspberry Pi (DIY Hobby Build)
 My current DIY and Hobby-Build using a `Raspberry Pi 4 Model B (2GB RAM)`.
+<br><br>
+<img width="40%" src="./raspberry-pi-4-model-b.png">
 <br>
-
 ## Specs and Parts
 ```
 Raspberry Pi 4 Model B (2GB RAM)
