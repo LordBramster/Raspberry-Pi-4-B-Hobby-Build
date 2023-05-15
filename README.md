@@ -35,3 +35,12 @@ Here are the steps I took configure a brand new Raspberry Pi 4.
 5. **SD:** choose the mounted `32GB Micro SD Card`.
 6. Now make any last minute **Advanced Settings** changes as necessary.
 7. Write!
+
+### Setup
+```
+sudo apt-get update && sudo apt-get upgrade
+```
+### Argon Fan Hat Config
+```
+curl https://download.argon40.com/argon1.sh | bash
+```
