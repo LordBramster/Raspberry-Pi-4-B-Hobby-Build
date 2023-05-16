@@ -71,10 +71,13 @@ $ [sudo] reboot
 $ [sudo] cat /etc/hosts
 $ [sudo] nano /etc/hostname
 $ [sudo] reboot
-$ [sudo] nano /etc/hosts (127.0.1.1)
+```
+```
+$ [sudo] nano /etc/hosts
 $ [sudo] reboot
 $ hostname
 ```
+***(on /etc/hosts under 127.0.1.1)***
 
 <br>
 
