@@ -1,7 +1,7 @@
 <!--<img width="10%" src="./repo/argon-neo-featured.jpg">-->
 
 # <img width="4%" src="https://img.icons8.com/?size=512&id=13443&format=png"> Raspberry Pi 4 Model B 
-Current Hobby-Build and DIY projects using a `Raspberry Pi 4 Model B (2GB RAM)`.
+Current Hobby-Build and DIY projects using a `Raspberry Pi 4 Model B (8GB RAM)`.
 
 <br>
 
@@ -11,7 +11,7 @@ Current Hobby-Build and DIY projects using a `Raspberry Pi 4 Model B (2GB RAM)`.
 
 ## Specs and Parts
 ```
-Raspberry Pi 4 Model B (2GB LPDDR4-3200 RAM)
+Raspberry Pi 4 Model B (8GB LPDDR4-3200 RAM)
 Raspbian: Raspberry Pi OS (32-bit)
 
 32GB Micro SD Card
