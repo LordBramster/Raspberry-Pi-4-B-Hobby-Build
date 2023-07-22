@@ -115,7 +115,7 @@ $ cd ~/TemperatureTests
 ```
 $ /home/pi/.local/bin/stressberry-run -n "My Test" -d 1800 -i 300 -c 4 mytest.out
 ```
-### *Links:*
+### *Resources:*
 > **https://github.com/nschloe/stressberry**
 > **https://core-electronics.com.au/guides/raspberry-pi/how-to-stress-test-temperature-on-raspberry-pi/**
 
